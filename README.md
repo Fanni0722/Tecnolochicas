@@ -26,7 +26,7 @@ Las preguntas que busco responder con este analisis son:
 
 ## Fuentes de datos
 
-- Base de ventas historica de una de las cuentas que manejo (SO_CCC.csv).
+- Base de ventas historica de una de las cuentas que manejo (SO_SAMPLE.xmls).
 - Catalogo de tiendas (Catalogo_Tienda.csv).
 - Catalogo de SKUs (Catalogo-SKU.csv).
 
